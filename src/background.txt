@@ -1,0 +1,3 @@
+Background: This is a part of the story of free software, although it misses some details. While "Finity's End" was a 
+work of fiction (the book is avaible on amazon.com, amazon.de and maybe at bookzilla.de), this story really happened 
+and happens today. For additional information please refer to GNU.

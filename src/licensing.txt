@@ -1,0 +1,16 @@
+Licensing: This song is free art avaible under the following four licenses (for details, please visit 
+draketo.de/licenses). Permission to filk her work freely was granted by Leslie Fish (cite: "Anything to keep the 
+internet free: Go for it!" - she's great! - maybe you'd like to listen in on her music?) and CJ Cherryh.
+
+- GNU FDL - GPLv2 or later or GPLv3 or later - Art Libre v1.3 or later - Lizenz für freie Inhalte v1.0 webstar
+
+You can use any of those four licenses, because I can't yet know which license will make it to the general license 
+for free art. Please keep all four licenses when you make changes, so we avoid licensing chaos. It doesn't use 
+creative commons licensing, because cc does not protect the free avaibility of the sources (Just think LaTeX and 
+pdf). Sources: infinite-hands.draketo.de
+
+It was written by Draketo aka Arne Babenhauserheide, finished on 2007-09-28, improved by Alan Thiesen 2007-10-08. 
+Copyright © 2007 Arne Babenhauserheide. It's first public performance was at FilkCONtinental2007 (A filk convention 
+on the Freusburg in Germany)
+
+Missing topics: DRM, SCO, Open Source – I'd be glad to get suggestions from you! ( just use the comment field )
