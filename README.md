@@ -1,4 +1,4 @@
-This file is based on [Infinite Hands (Draft Bodhran-Flute)](https://draketo.de/light/english/songs/infinite-hands-draft-bodhran-flute) by Arne Babenhauserheide.  
+This file is based on [Infinite Hands (Draft Bodhran-Flute)](https://www.draketo.de/light/english/songs/infinite-hands-draft-bodhran-flute) by Arne Babenhauserheide.  
   
 For I'm not able to upload my modifications as an Audacity Project ( It's a pretty large file > 100 MB ), I'll describe the values in this file.  
   
